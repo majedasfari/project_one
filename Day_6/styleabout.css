@@ -1,0 +1,33 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f4f4f4;
+    line-height: 1.9;
+    direction: rtl;
+}
+h1{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color:white
+}
+header,footer {
+    text-align: center;
+    background-color: rgb(63, 192, 82);
+    border-radius: 20px;
+}
+.one {
+    background-color: oklab(93.255% 0.00207 0.00053);
+    border-radius: 20px;
+}
+.two {
+    background-color: oklab(93.255% 0.00207 0.00053);
+    border-radius: 20px;
+}
+.three {
+    border-radius: 20px;
+    background-color: oklab(93.255% 0.00207 0.00053);
+}
+#four {
+    border-radius: 50%;
+}
