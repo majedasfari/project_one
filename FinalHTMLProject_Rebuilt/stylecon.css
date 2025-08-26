@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    background-color: rgb(235, 235, 235);
+    margin: auto;
+    width: 30%;
+}
+header {
+    background-color: rgb(214, 217, 221);
+    border-radius: 20px;
+    padding-right: 20px ;
+
+}
+a {
+    background-color:green ;
+    color: white;
+}
+.one{
+    background-color: rgb(214, 217, 221);
+    margin-bottom: 5px;
+    border-radius: 20px;
+    padding-right: 20px ;
+
+}
+.two {
+    color:green ;
+}
+#five {
+    background-color: rgb(214, 217, 221);
+    padding-right: 20px ;
+    border-radius: 20px;
+
+}
+
+.six {
+    background-color: green;
+    color: white;
+}
+.six:hover {
+    background-color: rgb(113, 183, 8);
+}
+#ten {
+    background-color: rgb(218, 216, 216);
+    padding-right: 20px ;
+    border-radius: 20px;
+}
